@@ -1,7 +1,7 @@
 ## About Me
 
 ---
-I am Meng Zhang.
+### Hello, I am Meng Zhang. I am a master student in the University of Texas at Austin. I focus on data analysis and data science. I am seeking a full time job actively.
 
 ---
 
