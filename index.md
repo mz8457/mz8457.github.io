@@ -11,7 +11,8 @@
 
   * The University of Texas at Austin 2018.8-2020.5<br/> 
     Master of Science in Information Studies
-  * University of Science & Technology Beijing 2014.9-2018.6<br/>   
+    
+  * University of Science & Technology Beijing 2014.9-2018.6<br/> 
     Bachelor of Management in Information Management and Information System 
 
 ---
