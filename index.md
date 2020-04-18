@@ -9,9 +9,9 @@
 ## Education
 ---
 
-   The University of Texas at Austin 2018.8-2020.5
+  * The University of Texas at Austin 2018.8-2020.5
     Master of Science in Information Studies
-   University of Science & Technology Beijing 2014.9-2018.6
+  * University of Science & Technology Beijing 2014.9-2018.6
     Bachelor of Management in Information Management and Information System 
 
 ---
