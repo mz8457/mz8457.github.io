@@ -9,16 +9,35 @@
 ## Education
 ---
 
-  * **The University of Texas at Austin** 2018.8-2020.5<br/> 
+  * **The University of Texas at Austin** 2018.08-2020.05<br/> 
     Master of Science in Information Studies
     
-  * **University of Science & Technology Beijing** 2014.9-2018.6<br/> 
+  * **University of Science & Technology Beijing** 2014.09-2018.06<br/> 
     Bachelor of Management in Information Management and Information System 
 
 ---
 ## Internships
 ---
 
+  * **Data Analyst Intern** <br/> 
+    The Center for Transportation Research, Austin, Texas<br/>
+    2019.11-2020.02
+    
+  * **Operation Analyst Intern** <br/> 
+    Volkswagen Financial Services, Beijing, China<br/>
+    2018.03-2018.06
+
+  * **Project Member** <br/> 
+    Chinese Academy of Sciences, Beijing, China<br/>
+    2017.10-2017.11
+  
+  * **Data Analyst Intern** <br/> 
+    Bitauto, Beijing, China<br/>
+    2017.06-2017.09
+  
+  * **Data Analyst Intern** <br/> 
+    Uber, Beijing, China<br/>
+    2016.07-2016.09
 ---
 ## Projects
 ---
