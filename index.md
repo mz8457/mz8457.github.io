@@ -1,16 +1,19 @@
-## About Me
-
----
-   ### Hello, I am Meng Zhang. I am a master student in the University of Texas at Austin. I focus on data analysis and data science. I am seeking a full time job actively.
-
+## Portfolio
 ---
 
-## Education
+### About Me
+   Hello, I am Meng Zhang. I am a master student in the University of Texas at Austin. I focus on data analysis and data science. I am seeking a full time job actively.
+   
 ---
-### The University of Texas at Austin 2018.8-2020.5
+
+### Education
+---
+
+   The University of Texas at Austin 2018.8-2020.5
     Master of Science in Information Studies
-### University of Science & Technology Beijing 2014.9-2018.6
+   University of Science & Technology Beijing 2014.9-2018.6
     Bachelor of Management in Information Management and Information System 
+
 ---
 ## Internships
 ---
