@@ -37,34 +37,24 @@
 ---
 ## Projects
 ---
+[Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Research on the Commercial Value of IMDB Movies](/pdf/Statistical Presentation.pdf)
 
-### Category Name 1 
+---
+[Research on Makeup Detection Classification Model](/pdf/Makeup or Not Presentation.pdf)
 
+---
+[Research on How Online Ads Impact Students’ Consumer Behavior](/pdf/Assignment6 presentation.pdf)
+
+---
+[Research on the Anime and its users]
+
+---
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
