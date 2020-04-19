@@ -37,20 +37,21 @@
 ---
 ## Projects
 ---
-[Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+* [Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
 
 ---
-[Research on the Commercial Value of IMDB Movies](/pdf/Statistical Presentation.pdf)
+* [Research on the Commercial Value of IMDB Movies](/pdf/Statistical Presentation.pdf)
 
 ---
-[Research on Makeup Detection Classification Model](/pdf/Makeup or Not Presentation.pdf)
+* [Research on Makeup Detection Classification Model](/pdf/Makeup or Not Presentation.pdf)
 
 ---
-[Research on How Online Ads Impact Students’ Consumer Behavior](/pdf/Assignment6 presentation.pdf)
+* [Research on How Online Ads Impact Students’ Consumer Behavior](/pdf/Assignment6 presentation.pdf)
 
 ---
-[Research on the Anime and its users]
+* **Research on the Anime and its users**
+   •	Programmed with PYTHON language to analyze and compare the data on two different anime websites
+   •	Managed data with MYSQL and carried out data visualization with TABLEAU, SPSS and EXCEL
 
 ---
 [Project 1 Title](/sample_page)
