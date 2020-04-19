@@ -37,28 +37,28 @@
 ---
 ## Projects
 ---
-* [Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
+[Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
+<img src="images/capstone.jpg?raw=true"/>
+---
+
+[Research on the Commercial Value of IMDB Movies](/pdf/Statistical Presentation.pdf)
+<img src="images/statistical.jpg?raw=true"/>
+---
+
+[Research on Makeup Detection Classification Model](/pdf/Makeup or Not Presentation.pdf)
+<img src="images/makeup.jpg?raw=true"/>
+---
+
+[Research on How Online Ads Impact Students’ Consumer Behavior](/pdf/Assignment6 presentation.pdf)
+   * Carried out data analysis with ANOVA, T Test and correlation analysis by using Excel and SPSS software
+   * Concluded the preference and reactions of students of different ages and genders for online advertisements
 
 ---
-* [Research on the Commercial Value of IMDB Movies](/pdf/Statistical Presentation.pdf)
+**Research on the Anime and its users**
+   * Programmed with PYTHON language to analyze and compare the data on two different anime websites
+   * Managed data with MYSQL and carried out data visualization with TABLEAU, SPSS and EXCEL
 
 ---
-* [Research on Makeup Detection Classification Model](/pdf/Makeup or Not Presentation.pdf)
 
----
-* [Research on How Online Ads Impact Students’ Consumer Behavior](/pdf/Assignment6 presentation.pdf)
-
----
-* **Research on the Anime and its users**
-   •	Programmed with PYTHON language to analyze and compare the data on two different anime websites
-   •	Managed data with MYSQL and carried out data visualization with TABLEAU, SPSS and EXCEL
-
----
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
