@@ -35,7 +35,7 @@
 ---
 ## Projects
 
-[Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
+[Texas Wholesaler Distributer Database Capstone](/sample_page)
 <img src="images/capstone.jpg?raw=true"/>
 
 ---
