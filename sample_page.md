@@ -15,12 +15,12 @@ In terms of ARCOS format, I study the following two file.
 
 ### 3. Develop a public website to upload a file
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/3.jpg?raw=true"/>
 
 ### 4. Validate the file uploaded to public server through PHP 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/4.jpg?raw=true"/>
 
 ### 5. Inform wholesaler of the file upload status 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/5.jpg?raw=true"/>
