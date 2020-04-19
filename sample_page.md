@@ -10,7 +10,7 @@
 ### 2. Study the specific ARCOS format requirement.
 
 In terms of ARCOS format, I study the following two file.
-* https://www.deadiversion.usdoj.gov/arcos/handbook/section5.htm
+* <a href="https://www.deadiversion.usdoj.gov/arcos/handbook/section5.htm">ARCOS Registrant Handbook</a>
 * <a href= "pdf/TWDD FAQ.pdf">TWDD FAQ</a>
 
 ### 3. Develop a public website to upload a file
