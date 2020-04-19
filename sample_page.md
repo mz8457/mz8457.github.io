@@ -1,31 +1,26 @@
-## This can be your internal website page / project page
+## Texas Wholesaler Distributer Database Capstone
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** For this capstone project, I improve the Texas Wholesaler Distributer Database and achieve the process of partial automation for the Prescription Monitoring Program (PMP) of Texas State Board of Pharmacy. Currently, PMP staff manage prescription data manually. This project improves this database by migrating increasing functionality to allow PMP staff the ability to manage and import wholesaler data updates with some level of automation. My work is to develop a website to upload files, validate uploaded files in ARCOS format and inform wholesalers of files upload status. 
 
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+### 1. Interview with workers to know the whole work process
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 2. Study the specific ARCOS format requirement.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In terms of ARCOS format, I study the following two file.
+* https://www.deadiversion.usdoj.gov/arcos/handbook/section5.htm
+* <a href= "pdf/TWDD FAQ.pdf">TWDD FAQ</a>
+
+### 3. Develop a public website to upload a file
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Validate the file uploaded to public server through PHP 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 5. Inform wholesaler of the file upload status 
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
