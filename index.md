@@ -7,7 +7,6 @@
 ---
 
 ## Education
----
 
   * **The University of Texas at Austin**    *2018.08-2020.05*<br/> 
     Master of Science in Information Studies
@@ -17,7 +16,6 @@
 
 ---
 ## Internships
----
 
   * **Data Analyst Intern**    *2019.11-2020.02*<br/> 
     The Center for Transportation Research, Austin, Texas
@@ -36,7 +34,7 @@
     
 ---
 ## Projects
----
+
 [Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
 <img src="images/capstone.jpg?raw=true"/>
 
