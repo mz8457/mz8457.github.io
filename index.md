@@ -39,14 +39,17 @@
 ---
 [Texas Wholesaler Distributer Database iSchool Capstone](/sample_page)
 <img src="images/capstone.jpg?raw=true"/>
+
 ---
 
 [Research on the Commercial Value of IMDB Movies](/pdf/Statistical Presentation.pdf)
 <img src="images/statistical.jpg?raw=true"/>
+
 ---
 
 [Research on Makeup Detection Classification Model](/pdf/Makeup or Not Presentation.pdf)
 <img src="images/makeup.jpg?raw=true"/>
+
 ---
 
 [Research on How Online Ads Impact Students’ Consumer Behavior](/pdf/Assignment6 presentation.pdf)
