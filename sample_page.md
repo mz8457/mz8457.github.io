@@ -4,7 +4,7 @@
 
 ### 1. Interview with workers to know the whole work process
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Flow chart.png?raw=true"/>
 
 
 ### 2. Study the specific ARCOS format requirement.
