@@ -1,6 +1,6 @@
 ## Texas Wholesaler Distributer Database Capstone
 
-**Project description:** For this capstone project, I improve the Texas Wholesaler Distributer Database and achieve the process of partial automation for the Prescription Monitoring Program (PMP) of Texas State Board of Pharmacy. Currently, PMP staff manage prescription data manually. This project improves this database by migrating increasing functionality to allow PMP staff the ability to manage and import wholesaler data updates with some level of automation. My work is to develop a website to upload files, validate uploaded files in ARCOS format and inform wholesalers of files upload status. 
+**Project description:** For this capstone project, I improve the Texas Wholesaler Distributer Database and achieve the process of partial automation for the Prescription Monitoring Program (PMP) of Texas State Board of Pharmacy. Currently, PMP staff manage prescription data manually. This project improves this database by migrating increasing functionality to allow PMP staff the ability to manage and import wholesaler data updates with some level of automation. My work is to develop a website to upload files, validate uploaded files in ARCOS format, inform wholesalers of files upload status and clean out previously loaded files automatically. 
 
 ### 1. Interview with workers to know the whole work process
 
@@ -24,3 +24,9 @@ In terms of ARCOS format, I study the following two file.
 ### 5. Inform wholesaler of the file upload status 
 
 <img src="images/5.jpg?raw=true"/>
+
+### 6. Clean out previously loaded files automatically
+
+<img src="images/delete files.jpg?raw=true"/>
+
+
