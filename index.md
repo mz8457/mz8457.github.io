@@ -35,7 +35,7 @@
 ---
 ## Projects
 
-[Texas Wholesaler Distributer Database Capstone](/sample_page)
+[Texas Wholesaler Distributer Database Capstone](/capstone)
 <img src="images/Flow chart.png?raw=true"/>
 
 ---
