@@ -27,6 +27,6 @@ In terms of ARCOS format, I study the following two file.
 
 ### 6. Clean out previously loaded files automatically
 
-<img src="images/delete files.jpg?raw=true"/>
+<img src="images/delete files.png?raw=true"/>
 
 
