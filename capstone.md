@@ -16,11 +16,13 @@ In terms of ARCOS format, I study the following two files.
 ### 3. Develop a public website to upload a file
 * Sale files: uploading the file directly; 
 * No-sale files: uploading the file that the transaction code is 7 or checking the no-sale box directly;
-<img src="images/3.jpg?raw=true"/>
+<img src="images/public.png?raw=true"/>
+<img src="images/public code.png?raw=true"/>
 
 ### 4. Validate the file uploaded to public server and save the file to a specified folder through PHP 
 
-<img src="images/4.jpg?raw=true"/>
+<img src="images/validate1.png?raw=true"/>
+<img src="images/validate2.png?raw=true"/>
 
 ### 5. Inform wholesaler of the file upload status 
 
