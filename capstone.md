@@ -18,7 +18,7 @@ In terms of ARCOS format, I study the following two files.
 * No-sale files: uploading the file that the transaction code is 7 or checking the no-sale box directly;
 <img src="images/3.jpg?raw=true"/>
 
-### 4. Validate the file uploaded to public server through PHP 
+### 4. Validate the file uploaded to public server and save the file to a specified folder through PHP 
 
 <img src="images/4.jpg?raw=true"/>
 
