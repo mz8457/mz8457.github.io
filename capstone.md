@@ -14,7 +14,8 @@ In terms of ARCOS format, I study the following two files.
 * <a href= "pdf/TWDD FAQ.pdf">TWDD FAQ</a>
 
 ### 3. Develop a public website to upload a file
-
+* Sale files: uploading the file directly; 
+* No-sale files: uploading the file that the transaction code is 7 or checking the no-sale box directly;
 <img src="images/3.jpg?raw=true"/>
 
 ### 4. Validate the file uploaded to public server through PHP 
